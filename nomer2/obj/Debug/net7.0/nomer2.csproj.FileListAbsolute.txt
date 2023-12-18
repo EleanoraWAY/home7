@@ -1,0 +1,14 @@
+C:\HOME7\nomer2\obj\Debug\net7.0\nomer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOME7\nomer2\obj\Debug\net7.0\nomer2.AssemblyInfoInputs.cache
+C:\HOME7\nomer2\obj\Debug\net7.0\nomer2.AssemblyInfo.cs
+C:\HOME7\nomer2\obj\Debug\net7.0\nomer2.csproj.CoreCompileInputs.cache
+C:\HOME7\nomer2\bin\Debug\net7.0\nomer2.exe
+C:\HOME7\nomer2\bin\Debug\net7.0\nomer2.deps.json
+C:\HOME7\nomer2\bin\Debug\net7.0\nomer2.runtimeconfig.json
+C:\HOME7\nomer2\bin\Debug\net7.0\nomer2.dll
+C:\HOME7\nomer2\bin\Debug\net7.0\nomer2.pdb
+C:\HOME7\nomer2\obj\Debug\net7.0\nomer2.dll
+C:\HOME7\nomer2\obj\Debug\net7.0\refint\nomer2.dll
+C:\HOME7\nomer2\obj\Debug\net7.0\nomer2.pdb
+C:\HOME7\nomer2\obj\Debug\net7.0\nomer2.genruntimeconfig.cache
+C:\HOME7\nomer2\obj\Debug\net7.0\ref\nomer2.dll
